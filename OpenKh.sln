@@ -158,7 +158,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenKh.Command.PmoConverter
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenKh.Command.PmpConverter", "OpenKh.Command.PmpConverter\OpenKh.Command.PmpConverter.csproj", "{4D954FE4-0B5A-4699-A1A8-A2D02BE05B9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenKh.Patcher", "OpenKh.Patcher\OpenKh.Patcher.csproj", "{05223179-5A23-433E-B255-44AA4FEA733B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenKh.Patcher", "OpenKh.Patcher\OpenKh.Patcher.csproj", "{05223179-5A23-433E-B255-44AA4FEA733B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
